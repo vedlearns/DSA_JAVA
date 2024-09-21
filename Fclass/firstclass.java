@@ -1,3 +1,4 @@
+package Fclass;
 
 public class firstclass {
 
