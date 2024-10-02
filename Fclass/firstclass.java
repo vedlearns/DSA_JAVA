@@ -24,7 +24,6 @@ public class firstclass {
     
 //     default:
 //     System.out.println("k");
-    
 // }
 
     }

@@ -33,7 +33,7 @@ public class Sum {
         System.out.println(num1);
 
         //eg-5
-        // if we have multiple types all of them will converted to bigger one
+        // if we have multiple types , all of them will be converted to bigger one
         System.out.println(3*6.8594f);
         {
             byte b2=42;
